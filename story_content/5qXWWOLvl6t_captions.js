@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/5qXWWOLvl6t_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.108.36078.0%0D%0A%0D%0A00:00:00.100%20--%3E%2000:00:07.971%0D%0A[A%20trombone%20making%20a%20depressing%20melody]%0D%0A%0D%0A"}]})
